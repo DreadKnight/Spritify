@@ -20,5 +20,5 @@ It also assumes that you're rendering a sequence of still frames. Video renders 
 ### Usage
 
 There is a Spritify panel in Render Properties where you configure some of the
-attributes of the sprite sheet as well as enable/disable the ability to
+attributes of the sprite sheet as well as enable or disable the ability to
 automatically generate a sprite sheet each time an animation render completes.
