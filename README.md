@@ -8,7 +8,7 @@ It was originally developed for use in the amazing [Ancient Beast](https://Ancie
 ### Requirements
 
 This add-on requires that you have ImageMagick installed on your computer and the montage command is in your system path.
-It also assumes that you're rendering a sequence of still frames. Video renders will not work.
+It also assumes that you're rendering a sequence of still frames. Video renders will not work, so keep that in mind.
 
 ### Installation
 
