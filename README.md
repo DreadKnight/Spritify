@@ -1,4 +1,4 @@
-Spritify Blender add-on
+### Spritify Blender add-on
 
 When an animation render is complete, all of the frames in the animation are
 compiled into a single spritesheet usable for sprite-based video games.
