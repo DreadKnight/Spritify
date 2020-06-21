@@ -18,7 +18,7 @@ It also assumes that you're rendering a sequence of still frames. Video renders 
 
 ### Installation
 
-- User Preferences → Addons → Install Addon...
+- User Preferences → Add-ons → Install...
 - Use the File Browser to find spritify.py on your hard drive
 - Double-click or select the file and click Install Add on...
-- Use the Addon browser to find and enable Spritify (from Render category)
+- Use the Add-on browser to find and enable Spritify (from Render category)
