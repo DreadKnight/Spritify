@@ -12,10 +12,10 @@ It also assumes that you're rendering a sequence of still frames. Video renders 
 
 ### Installation
 
-- User Preferences → Add-ons → Install...
-- Use the File Browser to find spritify.py on your hard drive
-- Double-click or select the file and click Install Add on...
-- Use the Add-on browser to find and enable Spritify (from Render category)
+1. Go to `Edit` / `Preferences` / `Add-ons` and click `Install...`
+2. Use the `File Browser` to find `spritify.py` on your hard drive
+3. Double-click or select the file and click `Install Add on...`
+4. Use the `Add-ons browser` to find and enable `Spritify` (from `Render` category)
 
 ### Usage
 
