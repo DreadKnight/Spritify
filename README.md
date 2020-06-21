@@ -1,6 +1,7 @@
 ### About
 
-This [Blender](https://blender.org) add-on will compile all rendered frames from your animation into a very nice and configurable sprite sheet, that's usable for sprite-based video games and websites. It can also generate animated gifs, allowing you to easily showcase animations without needing to use any code.
+This [Blender](https://blender.org) add-on will compile all rendered frames from your animation into a very nice and configurable sprite sheet, that's usable for sprite-based video games and even in modern cool websites.
+It can also generate animated gifs, allowing you to easily showcase animations without needing to use any code.
 
 There is a Spritify panel in Render Properties where you configure some of the
 attributes of the sprite sheet as well as enable/disable the ability to
