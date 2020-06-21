@@ -3,7 +3,7 @@
 This [Blender](https://blender.org) add-on will compile all rendered frames from your animation into a very nice and configurable sprite sheet, that's usable for sprite-based video games and even in modern cool websites.
 It can also generate animated gifs, allowing you to easily showcase and preview animations without needing to use any code at all, which usually comes in very handy.
 
-It was originally developed for use in the amazing [Ancient Beast](https://AncientBeast.com) game project but sharing is caring!
+It was originally developed for use in the amazing [Ancient Beast](https://AncientBeast.com) eSport game project but sharing is caring! ❤️
 
 ### Requirements
 
