@@ -9,7 +9,7 @@ automatically generate a sprite sheet each time an animation render completes.
 
 It can also generate an animated gif file, allowing you to easily showcase animations.
 
-Originally developed for use in the [Ancient Beast](https://AncientBeast.com) game project.
+Originally developed for use in the amazing [Ancient Beast](https://AncientBeast.com) game project.
 
 ### Requirements
 
